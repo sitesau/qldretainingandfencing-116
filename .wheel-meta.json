@@ -1,0 +1,22 @@
+{
+  "wheel_id": 925,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-116",
+  "project": "retaining-wall-installation-brisbane-myths-bdc646111d0564b5f6b7",
+  "parent_t1_ref": "qldretainingandfencing-157",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane myths",
+  "intended_url": "http://retaining-wall-installation-brisbane-myths-bdc646111d0564b5f6b7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ece7cde78595fb4d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-planning-guide-23fd16a0d84/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
